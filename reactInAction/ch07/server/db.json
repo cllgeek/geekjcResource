@@ -1,0 +1,54 @@
+{
+  "user": [
+    {
+      "id": 10000,
+      "name": "cllgeek",
+      "age": 25,
+      "gender": "male"
+    },
+    {
+      "id": 10001,
+      "name": "张三",
+      "age": 30,
+      "gender": "female"
+    },
+    {
+      "name": "郭勇",
+      "age": 24,
+      "gender": "male",
+      "id": 10002
+    },
+    {
+      "name": "緑巨人",
+      "age": 66,
+      "gender": "male",
+      "id": 10003
+    },
+    {
+      "name": "黑寡妇",
+      "age": 33,
+      "gender": "female",
+      "id": 10004
+    },
+    {
+      "name": "李四",
+      "age": 44,
+      "gender": "male",
+      "id": 10005
+    }
+  ],
+  "book": [
+    {
+      "id": 10000,
+      "name": "JavaScript从入门到精通",
+      "price": 9990,
+      "owner_id": 10000
+    },
+    {
+      "id": 10001,
+      "name": "Java从入门到放弃",
+      "price": 1990,
+      "owner_id": 10001
+    }
+  ]
+}

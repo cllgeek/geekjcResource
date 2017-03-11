@@ -1,0 +1,42 @@
+{
+  "user": [
+    {
+      "id": 10000,
+      "name": "cllgeek",
+      "age": 25,
+      "gender": "male"
+    },
+    {
+      "name": "緑巨人",
+      "age": 36,
+      "gender": "male",
+      "id": 10002
+    },
+    {
+      "name": "545",
+      "age": 65,
+      "gender": "female",
+      "id": 10003
+    }
+  ],
+  "book": [
+    {
+      "id": 10000,
+      "name": "JavaScript从入门到精通",
+      "price": 9990,
+      "owner_id": 10000
+    },
+    {
+      "name": "移动开发",
+      "price": 22,
+      "owner_id": 10003,
+      "id": 10001
+    },
+    {
+      "name": "移动开发",
+      "price": 22,
+      "owner_id": 10003,
+      "id": 10002
+    }
+  ]
+}
